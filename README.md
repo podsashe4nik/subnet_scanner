@@ -1,6 +1,6 @@
 # subnet_scanner
-Makes a trace to a specific target and scans all hosts along the way.\
-Делает трассировку до определенной цели и сканирует все хосты по пути. \
+Conducts a trace to a specific target and scans all hosts along the way. You can then select a specific scan target for the service version and operating system.\
+Делает трассировку до определенной цели и сканирует все хосты по пути. Потом можно выбрать цель для конкретного сканирования на версию служб и операционных систем \
 requirements требования: mtr-tiny, nmap
 ~~~bash
 sudo apt install mtr-tiny && nmap
