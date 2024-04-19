@@ -5,7 +5,7 @@ Conducts a trace to a specific target and scans all hosts along the way. You can
 
 requirements требования: mtr-tiny, nmap
 ~~~bash
-sudo apt install mtr-tiny && nmap
+sudo apt install mtr-tiny nmap
 ~~~
 USAGE:
 ~~~bash
