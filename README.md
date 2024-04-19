@@ -3,11 +3,11 @@ Conducts a trace to a specific target and scans all hosts along the way. You can
 
 Делает трассировку до определенной цели и сканирует все хосты по пути. Затем можно выбрать цель для конкретного сканирования на версию служб и операционных систем.
 
-###requirements требования: mtr-tiny, nmap
+### requirements требования: mtr-tiny, nmap
 ~~~bash
 sudo apt install mtr-tiny nmap
 ~~~
-###USAGE:
+### USAGE:
 ~~~bash
 usage: subnet_scanner.py [-h] [-T] [-m M] ip
 
