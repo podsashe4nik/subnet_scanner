@@ -9,8 +9,6 @@ USAGE:
 ~~~bash
 usage: subnet_scanner.py [-h] [-T] [-m M] ip
 
-:
-
 positional arguments:
   ip          target ip
 
